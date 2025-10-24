@@ -51767,7 +51767,7 @@ function Rq() {
                     "border-border text-text-whisper hover:text-foreground hover:border-primary/50 px-8 py-6 text-lg",
                   asChild: !0,
                   children: g.jsxs("a", {
-                    href: "https://x.com/LockSpace_bnb",
+                    href: "https://x.com/LockSpace_fun",
                     target: "_blank",
                     rel: "noopener noreferrer",
                     children: [
